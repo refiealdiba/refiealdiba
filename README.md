@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Refie 👋</h1>
 
-![](https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif" alt="Coding GIF" />
+</p>
 
 <p align="center">Software Engineering Enthusiast | React | Node.js | TypeScript</p>
 
