@@ -1,8 +1,8 @@
-<h1 style="text-align: center">Hi, I'm Refie 👋</h1>
+<h1 align="center">Hi, I'm Refie 👋</h1>
 
 ![](https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif)
 
-<p style="text-align: center">Software Engineering Enthusiast | React | Node.js | TypeScript</p>
+<p align="center">Software Engineering Enthusiast | React | Node.js | TypeScript</p>
 
 -   🌱 Currently learning Next JS Framework
 -   📫 Reach me: refiealdiba023@gmail.com
